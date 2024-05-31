@@ -34,3 +34,6 @@ This system will continuously run in background and calculate and predict the mo
 
 ## Diagram Idea (It will be adapt to the project)
 
+<img width="388" alt="Screenshot 2024-05-30 at 10 28 55 p m" src="https://github.com/DataExpert-ZachWilson-V4/capstone-project-v4-mex-data-engineering-team/assets/37979454/cf220349-b770-41c9-bf88-860fc7332c71">
+
+
